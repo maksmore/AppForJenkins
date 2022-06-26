@@ -1,0 +1,41 @@
+commit 3cb54f57b105330fe6b43a8b25fe2850183077f3
+Author: maksmore <maksmorozman@gmail.com>
+Date:   Sun Jun 26 14:47:55 2022 +0000
+
+    update: background purple color
+
+commit f3399907e727512bed1ecd1c37966cf9177f2758
+Author: maksmore <maksmorozman@gmail.com>
+Date:   Sun Jun 26 13:20:35 2022 +0000
+
+    renamed index.html
+
+commit 631457787fc75c0014cef2ed3b81c2177a1c07f3
+Author: maksmore <maksmorozman@gmail.com>
+Date:   Sun Jun 26 13:10:16 2022 +0000
+
+    update: rename index.html to index.nginx-debian.html
+
+commit bf1ac78857d6eec4fe5cc573fd54bd174adf29b4
+Author: maksmore <maksmorozman@gmail.com>
+Date:   Sun Jun 26 12:46:32 2022 +0000
+
+    update: change background color to gray
+
+commit e0ac52f88e62c745734c653ac1a07668acc24e50
+Author: maksmore <maksmorozman@gmail.com>
+Date:   Sun Jun 26 12:43:13 2022 +0000
+
+    update: change background color to gray
+
+commit 389d9cfd234e1e1386e82050021c12dfc28267f0
+Author: maksmore <maksmorozman@gmail.com>
+Date:   Sun Jun 26 11:26:55 2022 +0000
+
+    add: index.html for WebServer
+
+commit 5d2b7c8ccb5cd9c09aa36a41cc9d0856360d370c
+Author: Ubuntu <ubuntu@ip-10-2-1-219.ec2.internal>
+Date:   Sun Jun 26 10:58:44 2022 +0000
+
+    init: first commit
